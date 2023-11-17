@@ -4,7 +4,7 @@
 
 This is an software application that performs **testing equalization**.
 
-This application can quantify the respondents' ability by showing their predictive count of correctly answered questions.
+The application can quantify the respondents' ability by showing their predictive count of correctly answered questions.
 
 # 🌟 Features
 
