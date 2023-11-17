@@ -2,13 +2,13 @@
 
 # 💡 Introduction
 
-I designed an development application that performs test equalization within short time.
+This is an software application that performs test equalization.
 
-This application can quantify the ability by showing the predictive count of correctly answered questions.
-
-> **Note**: The following are part of a demo version and have altered arrangements and data for demonstration.
+This application can quantify the respondents' ability by showing their predictive count of correctly answered questions.
 
 # 🌟 Features
+
+> **Note**: The following are part of a demo version and have altered arrangements and data for demonstration.
 
 ## 📁 1. File Explorer
 
