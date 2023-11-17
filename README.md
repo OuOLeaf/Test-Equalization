@@ -49,9 +49,14 @@ This component is designed for conducting real-time searches with a specific foc
 
 ### 🏆 Achievements
 
-- **🌐 Efficient UI Design**: Developed an intuitive user interface that facilitates streamlined statistical analysis, accessible and efficient for all users.
+- **🌐 Efficient UI Design**:
+  - Developed and integrated a real-time Item Response Theory (IRT) model in the UI.
+  - Utilized Bayesian estimation techniques for dynamic model adaptation.
+  - Facilitated immediate feedback and comprehensive test analysis across various sessions.
 
-- **⏱️ Real-Time IRT Model Training**: Implemented a real-time Item Response Theory (IRT) model, employing Bayesian estimation for precise parameter analysis.
+- **⏱️ Real-Time IRT Model Training**: 
+  - Created a user-friendly interface that significantly simplifies statistical analysis.
+  - Enhanced user interactive experience by integrating intuitive navigation and data visualization tools.
 
 ### 📚 Python Libraries Utilized
 
