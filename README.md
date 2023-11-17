@@ -49,11 +49,11 @@ This component is designed for conducting real-time searches with a specific foc
 
 ### 🏆 Achievements
 
-- **⏱️ Real-Time IRT Model Training**: 
+- **📈 IRT Model Training**: 
   - Developed and integrated a real-time Item Response Theory (IRT) model in the UI.
   - Utilized Bayesian estimation techniques for dynamic model adaptation.
   
-- **🌐 Efficient UI Design**:
+- **🌐 UI Design**:
   - Created a user-friendly interface that significantly simplifies statistical analysis.
   - Facilitated immediate feedback and comprehensive test analysis across various sessions.
 
