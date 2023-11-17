@@ -1,8 +1,8 @@
-<h1 align="center">🔍 Advanced Item Response Theory (IRT) Analytics with Python 📊</h1>
-
-# Features Documentation
+<h1 align="center">🔍 Item Response Theory (IRT) Analytics with Python 📊</h1>
 
 > **Note**: The following are part of a demo version and have altered arrangements and data for demonstration purposes.
+
+# Features
 
 ## 📁 1. File Explorer
 
