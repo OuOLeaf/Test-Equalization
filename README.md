@@ -1,6 +1,6 @@
 <h1 align="center">📊 Item Response Theory (IRT) Analytics in UI 🔍</h1>
 
-# 🌟 Introduction
+# 💡 Introduction
 
 I designed an development application that performs test equalization within short time.
 
