@@ -2,13 +2,13 @@
 
 # 💡 Introduction
 
-This is an software application that performs **testing equalization**.
+This is an software application that performs **test equalization**.
 
 The application can quantify the respondents' ability by showing their predictive count of correctly answered questions.
 
 # 🌟 Features
 
-> **Note**: The following are part of a demo version and have altered arrangements and data for demonstration.
+> **Note**: The following are the demo version and have altered arrangements and data for demonstration.
 
 ## 📁 1. File Explorer
 
@@ -31,9 +31,9 @@ Upon clicking the execution button, it proceeds with two primary functions:
 
 ## 📊 3. Interactive Graph
 
-This feature offers an interactive graph that dynamically illustrates the relationship between the number of correctly answered questions and the abilities of respondents.
+Offer an interactive graph that dynamically illustrates the relationship between the number of correctly answered questions and the abilities of respondents.
 
-- **Sliders**: Users can manipulate sliders to observe variations in these metrics across different sessions.
+- **Sliders**: Users can manipulate sliders to observe variations in these metrics.
 - **Visualization**: The graph responds instantly to slider adjustments, providing real-time insights into the data.
 
 <div align="center">
@@ -42,10 +42,10 @@ This feature offers an interactive graph that dynamically illustrates the relati
 
 ## 🔍 4. Search Table
 
-This component is designed for conducting real-time searches with a specific focus:
+Designed for conducting real-time searches with a specific focus:
 
 - **Ability Level Specification**: Users can specify an ability level as a search parameter.
-- **Targeted Results**: The search focuses on the count of correctly answered questions associated with the specified ability level.
+- **Targeted Results**: The search predicted the count of correctly answered questions associated with the specified ability level.
 
 
 <div align="center">
@@ -61,10 +61,8 @@ This component is designed for conducting real-time searches with a specific foc
   - Predicted the count of correctly answered questions given a student's ability.
   
 - **🌐 UI Design**:
-  - Created a user-friendly interface that significantly simplifies statistical analysis.
-  - Facilitated immediate feedback and comprehensive test analysis across various sessions.
-
-
+  - Created a user-friendly interface that significantly streamlined statistical analysis.
+  - Facilitated immediate feedback and specific search.
 
 ### 📚 Python Libraries Utilized
 
