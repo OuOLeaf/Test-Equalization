@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/Interactive_Graph.gif" alt="flow"/>
+    <img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/IRT_Analyze_Visualize.gif" alt="flow"/>
 </div>
 
 <div align="center">
-    <img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/IRT_Analyze_Visualize.gif" alt="flow"/>
+    <img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/Interactive_Graph.gif" alt="flow"/>
 </div>
 
 <div align="center">
