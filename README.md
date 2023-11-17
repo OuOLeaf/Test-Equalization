@@ -1,6 +1,8 @@
 <h1 align="center"> Item Response Theory (IRT) Using Python </h1>
 
-<img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/IRT_demo.gif" alt = "flow"/>
+<div align="center">
+    <img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/IRT_demo.gif" alt="flow"/>
+</div>
 
 ### What I have achieved
 
