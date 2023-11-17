@@ -1,4 +1,10 @@
-<h1 align="center">📊 Item Response Theory (IRT) Analytics with Python 🔍</h1>
+<h1 align="center">📊 Item Response Theory (IRT) Analytics in UI 🔍</h1>
+
+# 🌟 Introduction
+
+I designed an development application that performs test equalization within short time.
+
+This application can quantify the ability by showing the predictive count of correctly answered questions.
 
 > **Note**: The following are part of a demo version and have altered arrangements and data for demonstration.
 
@@ -52,6 +58,7 @@ This component is designed for conducting real-time searches with a specific foc
 - **📈 IRT Model Training**: 
   - Developed and integrated a real-time Item Response Theory (IRT) model in the UI.
   - Utilized Bayesian estimation techniques for dynamic model adaptation.
+  - Predicted the count of correctly answered questions given a student's ability.
   
 - **🌐 UI Design**:
   - Created a user-friendly interface that significantly simplifies statistical analysis.
