@@ -16,7 +16,7 @@ Prepare the training data for the model with an intuitive File Explorer interfac
 
 Upon clicking the execution button, it proceeds with two primary functions:
 1. **Training**: The IRT (Item Response Theory) model undergoes training
-2. **User Redirection**: Users are automatically redirected to the report page designed for tbe data visualization and the search table.
+2. **User Redirection**: Users are automatically redirected to the report page designed for visualization and search table.
 
 
 <div align="center">
