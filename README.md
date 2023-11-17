@@ -1,4 +1,4 @@
-<h1 align="center">🔍 Item Response Theory (IRT) Analytics with Python 📊</h1>
+<h1 align="center"><img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-icon/icon_irt.png" alt = "Python" width="35" height="20"/> Item Response Theory (IRT) Analytics with Python 📊</h1>
 
 > **Note**: The following are part of a demo version and have altered arrangements and data for demonstration.
 
