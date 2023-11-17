@@ -16,7 +16,7 @@ Prepare the training data for the model with an intuitive File Explorer interfac
 
 Upon clicking the execution button, it proceeds with two primary functions:
 1. **Training**: The IRT (Item Response Theory) model undergoes training
-2. **User Redirection**: Users are automatically redirected to the report page designed for visualization and search table.
+2. **Redirection**: Users are automatically redirected to the report page designed for visualization and search table.
 
 
 <div align="center">
@@ -27,8 +27,8 @@ Upon clicking the execution button, it proceeds with two primary functions:
 
 This feature offers an interactive graph that dynamically illustrates the relationship between the number of correctly answered questions and the abilities of respondents.
 
-- **Sliders for Adjustments**: Users can manipulate sliders to observe variations in these metrics across different sessions.
-- **Responsive Visualization**: The graph responds instantly to slider adjustments, providing real-time insights into the data.
+- **Sliders**: Users can manipulate sliders to observe variations in these metrics across different sessions.
+- **Visualization**: The graph responds instantly to slider adjustments, providing real-time insights into the data.
 
 <div align="center">
     <img src="https://github.com/OuOLeaf/Testing_Equalization/blob/main/readme-gif/Interactive_Graph.gif" alt="Interactive Graph"/>
@@ -38,7 +38,7 @@ This feature offers an interactive graph that dynamically illustrates the relati
 
 This component is designed for conducting real-time searches with a specific focus:
 
-- **Parameter Specification**: Users can specify an ability level as a search parameter.
+- **Ability Level Specification**: Users can specify an ability level as a search parameter.
 - **Targeted Results**: The search focuses on the count of correctly answered questions associated with the specified ability level.
 
 
