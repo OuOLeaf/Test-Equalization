@@ -53,7 +53,7 @@ Designed for conducting real-time searches with a specific focus:
 </div>
 
 
-### 🏆 Achievements
+# 🏆 Achievements
 
 - **📈 IRT Model Training**: 
   - Developed and integrated a real-time Item Response Theory (IRT) model in the UI.
@@ -64,7 +64,7 @@ Designed for conducting real-time searches with a specific focus:
   - Created a user-friendly interface that significantly streamlined statistical analysis.
   - Facilitated immediate feedback and specific search.
 
-### 📚 Python Libraries Utilized
+# 📚 Python Libraries Utilized
 
 - **📘 Girth**: Item Response Theory (IRT) model analysis. [Girth on PyPI](https://pypi.org/project/girth/)
 - **🖥️ PyQt5**: Creation of the user interface. [PyQt5 Information](https://pypi.org/project/PyQt5/)
