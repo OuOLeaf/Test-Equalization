@@ -8,7 +8,7 @@ The application can quantify the respondents' ability by showing their predictiv
 
 # 🌟 Features
 
-> **Note**: The following are the demo version and have altered layouts and data for demonstration.
+> **Note**: The following are the demo version and have altered layout and data for demonstration.
 
 ## 📁 1. File Explorer
 
